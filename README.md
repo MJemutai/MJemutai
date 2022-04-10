@@ -1,6 +1,4 @@
 ### Hi there 😊👋
-
-<!--
 - 🌱 I’m currently learning ...Python
 - 👯 I’m looking to collaborate on ...Python prpjects
 - 🤔 I’m looking for help with ...Python-related challenges
